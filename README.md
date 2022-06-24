@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+We are building a minesweeper game.
+
 First, run the development server:
 
 ```bash
